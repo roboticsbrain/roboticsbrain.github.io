@@ -5,7 +5,7 @@ tagline: Bulma Clean Theme
 email: your-email@domain.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
+# baseurl: "/bulma-clean-theme"
 url: "https://praveenvnktsh.github.io/roboticsbrain"
 permalink: pretty
 #favicon: /path/to/favicon.png
@@ -14,6 +14,7 @@ gh_sponsor: chrisrhymes
 #theme_color: '#eeeeee'
 #fixed_navbar: top
 #direction: one of <ltr, rtl, auto>, default: ltr
+remote_theme: chrisrhymes/bulma-clean-theme
 
 paginate: 5
 paginate_path: "/blog/page:num"
@@ -51,7 +52,6 @@ sass:
   source_dir: _sass
 
 #google_analytics: UA-code-here
-remote_theme: chrisrhymes/bulma-clean-theme
 
 defaults:
   -

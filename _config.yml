@@ -51,6 +51,7 @@ sass:
   source_dir: _sass
 
 #google_analytics: UA-code-here
+remote_theme: chrisrhymes/bulma-clean-theme
 
 defaults:
   -

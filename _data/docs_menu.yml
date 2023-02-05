@@ -75,3 +75,11 @@
     - name: Recipes
       link: /docs/recipes/recipes/
 
+- label: Classical Computer Vision
+  items:
+    - name: Planar Homography
+      link: /docs/Classical Computer Vision/planar_homography
+    - name: Multi-View Geometry and SFM
+      link: /docs/Classical Computer Vision/triangulation
+    - name: Camera Models
+      link: /docs/Classical Computer Vision/Camera Models
